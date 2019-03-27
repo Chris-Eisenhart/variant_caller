@@ -1,0 +1,8 @@
+Phase 1
+Need - alignments
+
+Phase 2
+Need - fastq, dummy reference, auto generating script for artificial data
+     - 1000 bp reference, then make a second 'genome' with spiked in variants
+     - Be able to generate fastq sequences from the reference or second genome
+
